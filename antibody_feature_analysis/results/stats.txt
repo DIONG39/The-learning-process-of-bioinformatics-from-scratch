@@ -1,0 +1,5 @@
+name	length	hydrophobic_pct	charged_pct
+antibody_A	107	34.58%	15.89%
+antibody_B	120	40.83%	18.33%
+antibody_C	123	38.21%	17.07%
+antibody_D	108	33.33%	17.59%
